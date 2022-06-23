@@ -12,4 +12,4 @@ Generisanje izveštaja: Jaspersoft
 Opis
 -----
 Realizacija informacionog sistema jedne Knjižare.  
-Funkcionalnosti su grafički prikazane u fajlu [RIS_Projekat_Knjizara.pdf] ()
+Funkcionalnosti su grafički prikazane u fajlu [RIS_Projekat_Knjizara.pdf] (https://github.com/momcilol/RIS-Projekat/blob/master/RIS_Projekat_Knjizara.pdf)
