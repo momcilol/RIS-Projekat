@@ -11,4 +11,5 @@ Generisanje izveštaja: Jaspersoft
 
 Opis
 -----
-Program realizuje informacioni sistem jedne Knjižare. 
+Realizacija informacionog sistema jedne Knjižare.  
+Funkcionalo
