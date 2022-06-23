@@ -1,12 +1,14 @@
-#Knjižara
+Knjižara
+=========
 Završni projekat iz predmeta Razvoj informacionih sistema
 
-##Tehnologije
+Tehnologije
+------------
 Baza podataka: MySQL  
 Programska logika: JPA, Spring  
 Korisnički interfejs: JSP  
 Generisanje izveštaja: Jaspersoft  
 
 Opis
-----
+-----
 Program realizuje informacioni sistem jedne Knjižare. 
