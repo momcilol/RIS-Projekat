@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.2" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd">
+	<persistence-unit name="KnjizaraJPA" transaction-type="RESOURCE_LOCAL">
+		<class>model.Jezik</class>
+		<class>model.Kategorija</class>
+		<class>model.Knjiga</class>
+		<class>model.KnjizevnoVece</class>
+		<class>model.Korisnik</class>
+		<class>model.Narudzbina</class>
+		<class>model.Ocena</class>
+		<class>model.OcenaPK</class>
+		<class>model.Pisac</class>
+		<class>model.Uloga</class>
+		<class>model.Zaposleni</class>
+		<properties>
+			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/knjizara"/>
+			<property name="javax.persistence.jdbc.user" value="root"/>
+			<property name="javax.persistence.jdbc.password" value="root"/>
+			<property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
+		</properties>
+	</persistence-unit>
+</persistence>

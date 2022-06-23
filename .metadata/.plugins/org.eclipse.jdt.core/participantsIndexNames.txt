@@ -1,0 +1,17 @@
+INDEX VERSION 1.131
+/home/momcilo/Documents/RIS/RIS Projekat/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1981017041.index
+/KnjizaraWeb/src/main/java
+/home/momcilo/Documents/RIS/RIS Projekat/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3971535795.index
+/KnjizaraWeb/src/main/java
+/home/momcilo/Documents/RIS/RIS Projekat/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2341026588.index
+/KnjizaraWeb/src/main/java
+/home/momcilo/Documents/RIS/RIS Projekat/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3260740741.index
+/KnjizaraWeb/src/main/java
+/home/momcilo/Documents/RIS/RIS Projekat/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1234576855.index
+/KnjizaraWeb/src/main/java
+/home/momcilo/Documents/RIS/RIS Projekat/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/618412846.index
+/KnjizaraWeb/src/main/java
+/home/momcilo/Documents/RIS/RIS Projekat/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3986459425.index
+/KnjizaraWeb/src/main/java
+/home/momcilo/Documents/RIS/RIS Projekat/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/853688756.index
+/KnjizaraWeb/src/main/java
